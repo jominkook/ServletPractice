@@ -1,2 +1,2 @@
 # ServletPractice
-서블릿연습
+서블릿 교육
