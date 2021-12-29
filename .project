@@ -30,9 +30,54 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>src/main/java/ch10/DriverTest.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Documents/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EB%B0%9B%EC%9D%80%20%ED%8C%8C%EC%9D%BC/DriverTest.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch11/DBConnectionMgr.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch11/DBConnectionMgr.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch11/DriverTest.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch11/DriverTest.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch11/RegisterBean.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch11/RegisterBean.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch11/RegisterMgr.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch11/RegisterMgr.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch11/RegisterMgrPool.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch11/RegisterMgrPool.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch9/MemberBean.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch09/MemberBean.java</locationURI>
+		</link>
+		<link>
+			<name>src/main/java/ch9/SimpleBean.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch09/SimpleBean.java</locationURI>
+		</link>
+		<link>
 			<name>src/main/webapp/ch2/testPage.jsp</name>
 			<type>1</type>
 			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/source/ch02/testPage.jsp</locationURI>
+		</link>
+		<link>
+			<name>src/main/webapp/ch9/script.js</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Users/whals/Desktop/source/script.js.txt</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
